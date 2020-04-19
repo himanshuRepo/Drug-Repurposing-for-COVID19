@@ -11,7 +11,11 @@ Following steps will be followed to achieve the above outcomes:
 1. Collection of set of sample naturally occuring molecules. 
 2. As there are numerouos combinations possible for activity against the target site, trying out each combination is a tidious task.
 3. To fasten the same, possible combinations of these molecules will be explored using optimization algorithms like genetic algo. 
-4. In-silico assay of these combinations along with individual molecules will be performed using softwares such as PyRx, to measure the binding affinity of these molecule/s
+4. In-silico assay of these combinations along with individual molecules will be performed using softwares such as PyRx, to measure the binding affinity of these molecule/s.
+
+
+## Future Aspect
+Identification of existing molecules similar to natural molecuales by AI-based in-silico drug design.
 
 ## Team members:
 
